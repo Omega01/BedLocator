@@ -1,0 +1,10 @@
+name: BedLocator
+version: 1.0
+main: org.hisparquia.bedlocator.Main
+author: Omega01
+description: Shows the coordinates of the player's bed
+
+commands:
+  bed:
+    usage: /<command>
+    description: Shows the coordinates of the player's bed
